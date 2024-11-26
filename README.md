@@ -1,6 +1,6 @@
 # Sabo-TTS 😎 🎧
 
-Welcome to **Sabo-TTS**! The ultimate **text-to-speech** and **media player** app that not only converts text to speech but also allows you to explore anime wallpapers and stream music. Built using **Streamlit** and **google TTS** ! 
+Welcome to **Sabo-TTS**! The ultimate **text-to-speech** and **media player** app that not only converts text to speech but also allows you to explore anime wallpapers and stream music. Built using **Streamlit**, **google TTS** and other stuff! 
 
 [![Saboten-TTS Demo](assets/PIKA_WAVE.gif)](https://youtu.be/dQw4w9WgXcQ?si=qYVm0v_EK21DIm-g)
 
