@@ -63,7 +63,7 @@ with tab1:
             st.download_button(
                 label="Download Audio",
                 data=audio,
-                file_name="speech.mp3",
+                file_name="Sabo-tts-out😎.mp3",
                 mime="audio/mpeg"
             )
         else:
