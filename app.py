@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import random
 from gtts import gTTS
 from io import BytesIO
 from PyPDF2 import PdfReader
