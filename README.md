@@ -35,10 +35,10 @@ Make sure you have Python 3.x and the following libraries installed:
 - pytesseract
 - pypdf2
 
-You can install these dependencies using `pip`:
+You can install these dependencies using `pip`. All are listed in requirements.txt:
 
 ```bash
-pip install streamlit gtts requests pdf2image pytesseract pypdf2
+pip install -r requirements.txt
 ```
 You can also try out the hosted app on streamlit...Enjoy :)
 
